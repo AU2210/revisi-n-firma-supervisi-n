@@ -6,6 +6,8 @@ En la gestión administrativa pública, la validación manual de informes de sup
 Mi Solución: Proyecto Revisión de cuentas.
 Desarrollé una herramienta integral que automatiza este flujo conectando dos tecnologías clave:
 
+![Dashboard de Validación de Contratos](dashboard-validacion-contratos.png)
+
 VBA (Excel): Gestiona la interfaz de usuario y la base de datos de los contratos por procesar.
 
 Python: Realiza la lectura avanzada de los archivos PDF para extraer datos precisos y validar firmas.
